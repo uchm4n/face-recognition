@@ -1,4 +1,4 @@
-Detecting faces using OpenCV library
+Detecting faces using OpenCV and SimpleCV library
 ---
 
 
